@@ -1,0 +1,31 @@
+//////////////////////////////////////////////////////////
+// LoveMushroom 
+// by PUT YOUR NAME AND ID HERE
+//////////////////////////////////////////////////////////
+
+
+void setup()
+{
+  
+}
+
+void draw()
+{
+  
+}
+
+void mouseMoved()
+{
+
+}
+
+void mousePressed()
+{  
+ 
+}
+
+void keyPressed()
+{
+  
+}
+
