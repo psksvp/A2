@@ -4,6 +4,8 @@
 
 pongsak.suvanpong@mq.edu.au
 
+[My version of the solution is here](https://github.com/psksvp/A2/blob/master/LoveMushroom.pde)
+
 ## Introduction
 In this assignment you will use all your knowledge that you have learned in this unit to write a simple game to simulate growing mushrooms. The player will need to grow, looking after and harvesting mushrooms. 
 
